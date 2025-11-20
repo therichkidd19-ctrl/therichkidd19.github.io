@@ -33,7 +33,7 @@
     "theme_color": "#6b21a8",
     "icons": [
       {
-        "src": "/icons/icon-72x72.png",
+        "src": "/img/icon.png",
         "sizes": "72x72",
         "type": "image/png"
       },
@@ -44,4 +44,5 @@
       }
     ]
   }
+
 }
